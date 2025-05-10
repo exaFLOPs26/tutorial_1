@@ -34,5 +34,5 @@ Built for researchers and developers who want to control simulated robots using 
 ### Setup
 Every information where to locate files are all in the tutorial video.
 
-LinkedIn: https://www.linkedin.com/in/kyoungin-baik/
+LinkedIn: https://www.linkedin.com/in/kyoungin-baik/ <br />
 Website: https://youngwoon.github.io/
