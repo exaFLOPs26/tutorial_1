@@ -1,4 +1,4 @@
-# VR Teleoperation for Isaac Lab with Meta Quest (Oculus)
+# VR Joystick Teleoperation for Isaac Lab with Meta Quest (Oculus)
 
 🚀 **VR-based robot teleoperation** in simulation using **Meta Quest (Oculus)** VR joystick, integrated with NVIDIA Isaac Lab.
 
