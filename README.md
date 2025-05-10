@@ -1,4 +1,4 @@
-# VR Teleoperation for Isaac Lab with Meta Quest (Oculus)
+![short](https://github.com/user-attachments/assets/be938cce-e53c-429e-a6e5-4e522414cb6f)# VR Teleoperation for Isaac Lab with Meta Quest (Oculus)
 
 🚀 **VR-based robot teleoperation** in simulation using **Meta Quest (Oculus)** VR joystick, integrated with NVIDIA Isaac Lab.
 
@@ -19,8 +19,6 @@ Built for researchers and developers who want to control simulated robots using 
 
 ## 📽 Demo
 
-> _[Insert GIF or YouTube link of your VR teleop in action]_  
-> *(Highly recommended!)*
 
 ---
 
