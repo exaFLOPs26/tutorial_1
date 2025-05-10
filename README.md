@@ -11,7 +11,7 @@ Built for researchers and developers who want to control simulated robots using 
 - ✅ Teleoperate mobile manipulators in Isaac Lab simulation
 - ✅ Use Meta Quest (Oculus) VR joystick for control
 - ✅ Real-time pose streaming and control commands
-- ✅ Supports dual-arm manipulation and mobile base movement
+- ✅ Supports dual-arm manipulation and mobile base movement(v0: fixed bimanual / v1: mobile bimanual / v2: VR rendering)
 - ✅ Easy to customize and extend
 
 ---
